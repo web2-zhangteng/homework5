@@ -1,0 +1,28 @@
+h1 {
+	text-shadow:#cccccc 5px 5px 6px;
+	text-align: center;
+}
+h2 {
+	color:#666666;
+	text-align: center;
+}
+h5 {
+	color:#333333;
+	font-weight: lighter;
+	text-align: center;
+}
+h5 span {
+	color: red;
+}
+img {
+	display:block;margin:0px auto;
+	text-align: center;
+}
+p {
+	color:#333333;
+	text-indent: 30px;
+	line-height: 30px;
+}
+h3 {
+	text-indent: 30px;
+}
